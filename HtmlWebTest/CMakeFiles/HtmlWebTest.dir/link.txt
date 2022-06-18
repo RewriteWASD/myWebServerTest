@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/HtmlWebTest.dir/main.cpp.o CMakeFiles/HtmlWebTest.dir/ServerSock.cpp.o CMakeFiles/HtmlWebTest.dir/MysqlConnect.cpp.o  -o HtmlWebTest -rdynamic -lmysqlclient 
